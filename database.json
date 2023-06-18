@@ -1,0 +1,44 @@
+{
+  "987654321": {
+	"ProductName": "Water Sparks Water Bottle",
+    "Brand": "WaterSparks",
+    "Origin": "India",
+    "MRP": "1899",
+    "Color": "AssortedBlue",
+    "HowToUse": "https://youtube.com/shorts/yYny3OgRGuo?feature=share",
+    "ModelNumber": "123456789",
+    "WarrantyCard": "https://firebasestorage.googleapis.com/v0/b/packagevision-5a71a.appspot.com/o/warrantycard.jpg?alt=media&token=c293cf6c-6fd0-4830-ad91-be0a2cddcd60",
+    "Material": "Metal",
+    "ManufacturingDate": "March 2023",
+    "Manufacturer": "WaterSparks Ltd",
+    "ARImageLink": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/WaterBottle/glTF-Binary/WaterBottle.glb"
+  },
+  "987654322": {
+	"ProductName": "Water Sparks Radio",
+    "Brand": "WaterSparks",
+    "Origin": "India",
+    "MRP": "18999",
+    "Color": "AssortedBrown",
+    "HowToUse": "https://youtube.com/shorts/yYny3OgRGuo?feature=share",
+    "ModelNumber": "123456788",
+    "WarrantyCard": "https://firebasestorage.googleapis.com/v0/b/packagevision-5a71a.appspot.com/o/warrantycard.jpg?alt=media&token=c293cf6c-6fd0-4830-ad91-be0a2cddcd60",
+    "Material": "Aluminium",
+    "ManufacturingDate": "May 2023",
+    "Manufacturer": "WaterSparks Ltd",
+    "ARImageLink": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/BoomBox/glTF-Binary/BoomBox.glb"
+  },
+  "987654323": {
+	"ProductName": "Water Sparks Chair",
+    "Brand": "WaterSparks",
+    "Origin": "India",
+    "MRP": "12999",
+    "Color": "Orange",
+    "HowToUse": "https://youtube.com/shorts/yYny3OgRGuo?feature=share",
+    "ModelNumber": "123456787",
+    "WarrantyCard": "https://firebasestorage.googleapis.com/v0/b/packagevision-5a71a.appspot.com/o/warrantycard.jpg?alt=media&token=c293cf6c-6fd0-4830-ad91-be0a2cddcd60",
+    "Material": "Cotton and Wood",
+    "ManufacturingDate": "Jan 2023",
+    "Manufacturer": "WaterSparks Ltd",
+    "ARImageLink": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/SheenChair/glTF-Binary/SheenChair.glb"
+  }
+}
